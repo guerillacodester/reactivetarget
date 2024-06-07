@@ -1,0 +1,70 @@
+build/core/abi.cpp.d
+build/core/abi.cpp.o
+build/core/CDC.cpp.d
+build/core/CDC.cpp.o
+build/core/core.a
+build/core/HardwareSerial.cpp.d
+build/core/HardwareSerial.cpp.o
+build/core/HardwareSerial0.cpp.d
+build/core/HardwareSerial0.cpp.o
+build/core/HardwareSerial1.cpp.d
+build/core/HardwareSerial1.cpp.o
+build/core/HardwareSerial2.cpp.d
+build/core/HardwareSerial2.cpp.o
+build/core/HardwareSerial3.cpp.d
+build/core/HardwareSerial3.cpp.o
+build/core/hooks.c.d
+build/core/hooks.c.o
+build/core/IPAddress.cpp.d
+build/core/IPAddress.cpp.o
+build/core/main.cpp.d
+build/core/main.cpp.o
+build/core/new.cpp.d
+build/core/new.cpp.o
+build/core/PluggableUSB.cpp.d
+build/core/PluggableUSB.cpp.o
+build/core/Print.cpp.d
+build/core/Print.cpp.o
+build/core/Stream.cpp.d
+build/core/Stream.cpp.o
+build/core/Tone.cpp.d
+build/core/Tone.cpp.o
+build/core/USBCore.cpp.d
+build/core/USBCore.cpp.o
+build/core/WInterrupts.c.d
+build/core/WInterrupts.c.o
+build/core/wiring_analog.c.d
+build/core/wiring_analog.c.o
+build/core/wiring_digital.c.d
+build/core/wiring_digital.c.o
+build/core/wiring_pulse.c.d
+build/core/wiring_pulse.c.o
+build/core/wiring_pulse.S.d
+build/core/wiring_pulse.S.o
+build/core/wiring_shift.c.d
+build/core/wiring_shift.c.o
+build/core/wiring.c.d
+build/core/wiring.c.o
+build/core/WMath.cpp.d
+build/core/WMath.cpp.o
+build/core/WString.cpp.d
+build/core/WString.cpp.o
+Project Backups/74HC595 t [20240607, 22-16-09].pdsprj
+Project Backups/74HC595 t [20240607, 22-20-30].pdsprj
+Project Backups/74HC595 t [20240607, 22-27-22].pdsprj
+Project Backups/74HC595 t [Autosaved].pdsprj
+Project Backups/74HC595 t [20240607, 22-16-09].pdsprj
+Project Backups/74HC595 t [20240607, 22-20-30].pdsprj
+Project Backups/74HC595 t [20240607, 22-27-22].pdsprj
+Project Backups/74HC595 t [Autosaved].pdsprj
+build/preproc/ctags_target_for_gcc_minus_e.cpp
+build/sketch/74HC595.ino.cpp
+build/sketch/74HC595.ino.cpp.d
+build/sketch/74HC595.ino.cpp.o
+build/sketch/.vscode/arduino.json
+build/sketch/.vscode/c_cpp_properties.json
+build/.last-used
+build/74HC595.ino.eep
+build/74HC595.ino.elf
+build/includes.cache
+build/libraries.cache
